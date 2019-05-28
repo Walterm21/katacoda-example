@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
+  "title": "Decipher Now",
   "description": "Your First Scenario",
   "difficulty": "beginner",
-  "time": "5 minutes",
+  "time": " minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
